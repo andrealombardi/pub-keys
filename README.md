@@ -1,2 +1,3 @@
 # pub-keys
-store my public keys
+store my public key
+
